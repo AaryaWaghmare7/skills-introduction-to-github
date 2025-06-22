@@ -1,0 +1,20 @@
+# 🧃 JuiceMixer 3000
+
+Ever wondered what happens when you mix Apple, Mango, and a little bit of Code? Introducing **JuiceMixer 3000** – a fun command-line project that "mixes" random juice flavors and gives you completely fictional (but tasty) results! 🍊🍓🍍
+
+---
+
+## 🚀 What It Does
+
+JuiceMixer 3000 is a Python script that:
+
+- Randomly picks 2–3 fruits from a list
+- Suggests a new juice combo
+- Adds a little *flavor text* like "A zesty kick in every sip!"
+
+Perfect if you're bored, coding late at night, or pretending to be productive while secretly daydreaming about fruit juice.
+
+---
+
+## 🧃 Sample Output
+
